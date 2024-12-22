@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mechanical Engineering and Designing
 - 🌱 I’m currently learning Programming on Matlab and Python.
 - 💞️ I’m looking to collaborate on Programming.
-- 📫 How to reach me - Khird_adeed96@smme.edu.pk
+- 📫 How to reach me - Khird.adeed96@yahoo.com
 
 <!---
 khirdadeed/khirdadeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
